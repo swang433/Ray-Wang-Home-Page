@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ray Wang</h1>
-<h3 align="center">Computer Engineering interested into fields involving artificial intelligence, machine learning, parallel programming and computer vision.</h3>
+<h3 align="center">Computer Engineer interested into fields involving artificial intelligence, machine learning, parallel programming and computer vision.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
